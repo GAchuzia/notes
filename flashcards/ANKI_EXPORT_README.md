@@ -2,7 +2,7 @@
 
 This script helps export Anki flashcards as text files that can be imported into Quizlet.
 
-> Note fro GAchuzia: `anki_export_script.py` and this `README.md` are all Cursor code, and while I wan't to try and veer away from AI, I just needed a quick fix for turning Anki cards -> Quizlet cards. My notes will not be AI generated, and neither will my flash cards, and I'll explicitly state when I do use AI.
+> Note from GAchuzia: `anki_export_script.py` and this `README.md` are all Cursor code, and while I wan't to try and veer away from AI, I just needed a quick-fix for turning Anki cards -> Quizlet cards. My notes will not be AI generated, and neither will my flash cards, and I'll explicitly state when I do use AI.
 
 ## Prerequisites
 
@@ -53,7 +53,7 @@ Front of card 2<TAB>Back of card 2
 2. Click `Create` > `Study Set`
 3. Enter a title for your set
 4. Click `Import`
-5. Copy and paste the content from your exported `.txt` file
+5. Copy and paste the content from your exported `.txt` file ([check anki-decks folder](flashcards\anki-decks))
 6. Make sure the separator is set to `Tab`
 7. Click `Import`
 
@@ -73,15 +73,6 @@ Front of card 2<TAB>Back of card 2
 ### Field Mapping
 
 The script tries to automatically detect front/back fields. If your cards use different field names, you may need to modify the `export_deck_to_txt` method in the script.
-
-## Customization
-
-You can modify the script to:
-
-- Change the output directory
-- Adjust field mapping for your specific note types
-- Add additional text cleaning rules
-- Export in different formats
 
 ## Notes
 
