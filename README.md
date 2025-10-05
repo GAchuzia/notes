@@ -12,11 +12,11 @@ Looking for assignments or labs answers? You won't find any here! The point of t
 
 | Course | Status | Notes |
 |--------|--------|-------|
-| SYSC4101A - Software Validation | ![SYSC4101A](https://img.shields.io/badge/notes-out%20of%20date-red?style=flat-square) | [View Notes](sysc-4101/sysc4101-notes.md) |
-| SYSC4310 - Computer Systems Architecture | ![SYSC4310](https://img.shields.io/badge/notes-out%20of%20date-red?style=flat-square) | [View Notes](sysc-4310/sysc4310-notes.md) |
-| SYSC4602 - Computer Communications | ![SYSC4602](https://img.shields.io/badge/notes-out%20of%20date-red?style=flat-square) | [View Notes](sysc-4602/sysc4602-notes.md) |
-| SYSC4805 - Computer Systems Design Lab | ![SYSC4805](https://img.shields.io/badge/notes-out%20of%20date-red?style=flat-square) | [View Notes](sysc-4805/sysc4805-notes.md) |
-| SYSC4810 - Network and Software Security | ![SYSC4810](https://img.shields.io/badge/notes-out%20of%20date-red?style=flat-square) | [View Notes](sysc-4810/sysc4810-notes.md) |
+| SYSC4101A - Software Validation | ![SYSC4101A](https://img.shields.io/badge/notes-out%20of%20date-red?style=flat-square) ![Alt text for flasshcards](https://img.shields.io/badge/flashcards-out%20of%20date-red?style=flat-square)| [View Notes](sysc-4101/sysc4101-notes.md) |
+| SYSC4310 - Computer Systems Architecture | ![SYSC4310](https://img.shields.io/badge/notes-out%20of%20date-red?style=flat-square) ![Alt text for flasshcards](https://img.shields.io/badge/flashcards-out%20of%20date-red?style=flat-square)| [View Notes](sysc-4310/sysc4310-notes.md) |
+| SYSC4602 - Computer Communications | ![SYSC4602](https://img.shields.io/badge/notes-out%20of%20date-red?style=flat-square) ![Alt text for flasshcards](https://img.shields.io/badge/flashcards-out%20of%20date-red?style=flat-square)| [View Notes](sysc-4602/sysc4602-notes.md) |
+| SYSC4805 - Computer Systems Design Lab | ![SYSC4805](https://img.shields.io/badge/notes-out%20of%20date-red?style=flat-square) ![Alt text for flasshcards](https://img.shields.io/badge/flashcards-out%20of%20date-red?style=flat-square)| [View Notes](sysc-4805/sysc4805-notes.md) |
+| SYSC4810 - Network and Software Security | ![SYSC4810](https://img.shields.io/badge/notes-out%20of%20date-red?style=flat-square) ![Alt text for flasshcards](https://img.shields.io/badge/flashcards-out%20of%20date-red?style=flat-square)| [View Notes](sysc-4810/sysc4810-notes.md) |
 
 ## Flash Cards
 
@@ -27,5 +27,3 @@ Anki is a powerful space-repetion based study tool. Download it from [Ankiweb](h
 ### Quizlet
 
 My favorite last-minute cramming tool. Follow the [Anki Export README](flashcards/ANKI_EXPORT_README.md#importing-to-quizlet) to see how you can import my Anki decks to Quizlet.
-
-
