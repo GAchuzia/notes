@@ -1,6 +1,6 @@
 # uni-notes
 
-GAchuzia's 4th-Year notes for Computer Systems Engineering at Carleton University.
+4th-Year notes for Computer Systems Engineering at Carleton University.
 
 > It would be *really* funny if I abandon this project in like 2 weeks.
 
