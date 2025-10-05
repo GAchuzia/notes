@@ -22,7 +22,7 @@ Looking for assignments or labs answers? You won't find any here! The point of t
 
 ### Anki
 
-Anki is a powerful space-repetion based study tool. Download it from [Ankiweb](https://apps.ankiweb.net/#downloads), it's free (on desktop and android). I'll be uploading all the flash cards I make to this repo, and they can be found in the [anki-decksn folder](flashcards/anki-decks/).
+Anki is a powerful space-repetion based study tool. Download it from [Ankiweb](https://apps.ankiweb.net/#downloads), it's free (on desktop and android). I'll be uploading all the flash cards I make to this repo, and they can be found in the [anki-decks folder](flashcards/anki-decks/).
 
 ### Quizlet
 
