@@ -33,10 +33,9 @@ git checkout -b feature/section-description
 2) **Commit messages** (Conventional Commits)
 
 ~~~text
-feat: add new user authentication page
-fix: correct model training data
-chore: run pre-commit hooks on test cases
-docs: update README with restaurant examples
+feat: add new notes to sysc-4810
+fix: correct spelling error in README
+chore: run markdown lint over repo
 ~~~
 
 3) **Open a PR**
