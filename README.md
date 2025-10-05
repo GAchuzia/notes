@@ -26,6 +26,6 @@ Anki is a powerful space-repetion based study tool. Download it from [Ankiweb](h
 
 ### Quizlet
 
-My favorite last-minute cramming tool. Follow the [Anki Export README](flashcards\ANKI_EXPORT_README.md#importing-to-quizlet) to see how you can import my Anki decks to Quizlet.
+My favorite last-minute cramming tool. Follow the [Anki Export README](flashcards/ANKI_EXPORT_README.md#importing-to-quizlet) to see how you can import my Anki decks to Quizlet.
 
 
