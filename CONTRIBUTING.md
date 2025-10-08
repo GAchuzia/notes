@@ -1,10 +1,10 @@
-# uni-notes Contribution Guide
+# Notes Contribution Guide
 
 Quick guide on contributring to `uni-notes`.
 
 ## Table Of Contents
 
-- [uni-notes Contribution Guide](#uni-notes-contribution-guide)
+- [Notes Contribution Guide](#notes-contribution-guide)
   - [Table Of Contents](#table-of-contents)
     - [Filing Issues](#filing-issues)
     - [Making Pull Requests](#making-pull-requests)
@@ -36,7 +36,10 @@ git checkout -b feature/section-description
 feat: add new notes to sysc-4810
 fix: correct spelling error in README
 chore: run markdown lint over repo
+docs: update sysc-4805 notes section
 ~~~
+
+Most commit messages will likely be docs-related due to the nature of this repository, so try and be specific when explaining your changes.
 
 3) **Open a PR**
 
@@ -47,5 +50,5 @@ chore: run markdown lint over repo
 
 ### Reminders
 
-- Please be nice, or you'll make me sad (and I'll reject your PR and implement your suggestion myself >:D )
+- Please be constructive when offering criticism, or you'll make me sad (and I'll reject your PR and implement your suggestions myself >:D )
 - Do **NOT** share answers to assignments/labs/midterms/exams in your PR,  that's an auto-reject.
