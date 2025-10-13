@@ -16,8 +16,8 @@ Notes based on lectures from my 4th year courses in Computer Systems Engineering
 |--------|--------|-------|
 | SYSC4101A - Software Validation | ![Notes](https://img.shields.io/badge/notes-Outdated-red?style=flat-square) ![Flashcards](https://img.shields.io/badge/flashcards-Outdated-red?style=flat-square) | [View Notes](University/SYSC-4101/sysc-4101.md) |
 | SYSC4310 - Computer Systems Architecture | ![Notes](https://img.shields.io/badge/notes-Outdated-red?style=flat-square) ![Flashcards](https://img.shields.io/badge/flashcards-Outdated-red?style=flat-square) | [View Notes](University/SYSC-4310/sysc-4310.md) |
-| SYSC4602 - Computer Communications | ![Notes](https://img.shields.io/badge/notes-Outdated-red?style=flat-square) ![Flashcards](https://img.shields.io/badge/flashcards-Outdated-red?style=flat-square) | [View Notes](University/SYSC-4602/sysc-4602.md) |
-| SYSC4805 - Computer Systems Design Lab | ![Notes](https://img.shields.io/badge/notes-Outdated-red?style=flat-square) ![Flashcards](https://img.shields.io/badge/flashcards-Outdated-red?style=flat-square) | [View Notes](University/SYSC-4805/sysc-4805.md) |
+| SYSC4602 - Computer Communications | ![Notes](https://img.shields.io/badge/notes-Underway-yellow?style=flat-square) ![Flashcards](https://img.shields.io/badge/flashcards-Underway-yellow?style=flat-square) | [View Notes](University/SYSC-4602/sysc-4602.md) |
+| SYSC4805 - Computer Systems Design Lab | ![Notes](https://img.shields.io/badge/notes-Underway-yellow?style=flat-square) ![Flashcards](https://img.shields.io/badge/flashcards-Underway-yellow?style=flat-square) | [View Notes](University/SYSC-4805/sysc-4805.md) |
 | SYSC4810 - Network and Software Security | ![Notes](https://img.shields.io/badge/notes-Outdated-red?style=flat-square) ![Flashcards](https://img.shields.io/badge/flashcards-Outdated-red?style=flat-square) | [View Notes](University/SYSC-4810/sysc-4810.md) |
 
 ## Technical Interviews Notes
@@ -35,7 +35,7 @@ Notes on various topics that come up in technical interviews.
 
 ### Anki
 
-Anki is a powerful space-repetion based study tool. Download it from [Ankiweb](https://apps.ankiweb.net/#downloads), it's free (on desktop and android). I'll be uploading all the flash cards I make to this repo, and they can be found in the [anki-decks folder](flashcards/anki-decks/).
+Anki is a powerful space-repetition based study tool. Download it from [Ankiweb](https://apps.ankiweb.net/#downloads), it's free (on desktop and android). I'll be uploading all the flash cards I make to this repo, and they can be found in the [anki-decks folder](flashcards/anki-decks/).
 
 ### Quizlet
 
