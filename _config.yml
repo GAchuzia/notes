@@ -1,4 +1,4 @@
-theme: jekyll-theme-nocturne
+remote_theme: GAchuzia/jekyll-theme-nocturne
 markdown: kramdown
 kramdown:
   math_engine: mathjax
