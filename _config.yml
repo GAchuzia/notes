@@ -1,4 +1,10 @@
-theme: jekyll-theme-primer
+remote_theme: GAchuzia/jekyll-theme-nocturne
+remote_theme_version: v0.1.6
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
